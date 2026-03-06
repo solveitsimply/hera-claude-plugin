@@ -1,6 +1,8 @@
 {
-  "hera": {
-    "type": "http",
-    "url": "https://fx0ae5dwqa.execute-api.us-east-2.amazonaws.com/dev/v1/mcp"
+  "mcpServers": {
+    "hera": {
+      "type": "http",
+      "url": "https://fx0ae5dwqa.execute-api.us-east-2.amazonaws.com/dev/v1/mcp"
+    }
   }
 }
