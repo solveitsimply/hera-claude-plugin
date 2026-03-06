@@ -10,7 +10,7 @@
     {
       "name": "hera",
       "description": "Connect Claude to your Hera workspace. Query associates, routes, incidents, performance data, and more via the Hera Public API.",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "author": {
         "name": "Hera Solutions"
       },
