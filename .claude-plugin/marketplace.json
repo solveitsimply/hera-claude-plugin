@@ -1,0 +1,26 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "hera-plugin-marketplace",
+  "description": "Hera workforce management integration for Claude Code",
+  "owner": {
+    "name": "Hera Solutions",
+    "url": "https://hera.app"
+  },
+  "plugins": [
+    {
+      "name": "Hera",
+      "description": "Connect Claude to your Hera workspace. Query associates, routes, incidents, performance data, and more via the Hera Public API.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Hera Solutions",
+        "url": "https://hera.app"
+      },
+      "category": "productivity",
+      "source": {
+        "source": "github",
+        "repo": "herasolutions/hera-claude-plugin"
+      },
+      "homepage": "https://hera.app"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Hera",
+  "version": "1.0.0",
+  "description": "Hera workforce management integration for Claude Code. Query associates, routes, incidents, performance, and more.",
+  "author": {
+    "name": "Hera Solutions",
+    "url": "https://hera.app"
+  },
+  "license": "MIT"
+}
